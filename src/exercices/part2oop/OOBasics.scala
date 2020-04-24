@@ -1,6 +1,6 @@
 package exercices.part2oop
 
-object OOExercices extends App {
+object OOBasics extends App {
   val jk_rowling = new Writer(name = "Rowling", surname = "J.K.", birthYear = 1965)
   val jrr_tolkien = new Writer(name = "Tolkien", surname = "J.R.R.", birthYear = 1892)
 
